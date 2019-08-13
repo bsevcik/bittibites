@@ -27,17 +27,37 @@
 	<line class="st1" x1="545.7" y1="195.7" x2="545.7" y2="627.7"/>
 	<line class="st1" x1="401.7" y1="627.7" x2="545.7" y2="627.7"/>
 	<line class="st1" x1="545.7" y1="627.7" x2="833.7" y2="627.7"/>
-	<line class="st1" x1="833.7" y1="627.7" x2="833.7" y2="195.7"/>
 	<line class="st1" x1="545.7" y1="195.7" x2="833.7" y2="195.7"/>
-	<line class="st1" x1="833.7" y1="195.7" x2="977.7" y2="195.7"/>
-	<line class="st0" x1="977.7" y1="195.7" x2="977.7" y2="627.7"/>
-	<line class="st1" x1="977.7" y1="627.7" x2="833.7" y2="627.7"/>
 	<g id="frontLeft">
 		<line class="st0" x1="977.7" y1="195.7" x2="977.7" y2="69.7"/>
 		<line class="st0" x1="977.7" y1="69.7" x2="860.7" y2="69.7"/>
 		<path class="st0" d="M860.7,69.7c0,14.3,5.8,28.1,15.8,38.2c10.1,10.2,23.9,15.8,38.2,15.8"/>
 		<line class="st0" x1="923.7" y1="123.7" x2="905.7" y2="123.7"/>
 		<path class="st0" d="M905.7,123.7c-19.1,0-37.4,7.6-50.9,21.1c-13.6,13.4-21.1,31.8-21.1,50.9"/>
+	</g>
+	<g id="front">
+		<line class="st1" x1="833.7" y1="627.7" x2="833.7" y2="195.7"/>
+		<line class="st1" x1="833.7" y1="195.7" x2="977.7" y2="195.7"/>
+		<line class="st0" x1="977.7" y1="195.7" x2="977.7" y2="627.7"/>
+		<line class="st1" x1="977.7" y1="627.7" x2="833.7" y2="627.7"/>
+	</g>
+	<g id="front2">
+		<line class="st1" x1="833.7" y1="627.7" x2="833.7" y2="195.7"/>
+		<line class="st1" x1="833.7" y1="195.7" x2="977.7" y2="195.7"/>
+		<line class="st0" x1="977.7" y1="195.7" x2="977.7" y2="627.7"/>
+		<line class="st1" x1="977.7" y1="627.7" x2="833.7" y2="627.7"/>
+	</g>
+	<g id="asdfasdfadsfasdfasdfadfa">
+	</g>
+	<g id="asfasdfadsfasdfasdfasdfa">
+	</g>
+	<g id="asdfasdfadsfasdfasdasdfa">
+	</g>
+	<g id="asdfasdfasfasdfasdfasdfa">
+	</g>
+	<g id="asdfasdfadsfasdfasdfasda">
+	</g>
+	<g id="sdfasdfadsfasdfasdfasdfa">
 	</g>
 	<g id="bottomLeft">
 		<line class="st0" x1="761.7" y1="123.7" x2="761.7" y2="114.7"/>
