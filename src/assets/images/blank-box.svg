@@ -4,12 +4,10 @@
 	 viewBox="0 0 1078 864" style="enable-background:new 0 0 1078 864;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#3953A4;stroke-width:0.96;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	
-		.st1{fill:none;stroke:#ED1F24;stroke-width:0.96;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4,6;}
+	.st1{fill:none;stroke:#ED1F24;stroke-width:0.96;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st2{fill:#00AEEF;}
 	.st3{font-family:'ArialMT';}
 	.st4{font-size:9px;}
-	.st5{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
 </style>
 <g id="Non-Print_Area">
 </g>
@@ -149,5 +147,4 @@
 </g>
 <g id="Your_Art_Layer">
 </g>
-<rect id="top" x="116" y="195.7" class="st5" width="285.7" height="432"/>
 </svg>
