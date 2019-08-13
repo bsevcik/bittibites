@@ -10,9 +10,8 @@ const svgUrl = "https://raw.githubusercontent.com/bsevcik/bittibites/master/src/
 const App = () => (
   <div>
     <SvgLoader path={svgUrl}>
-      <SvgProxy selector="#frontLeft" fill="blue" stroke="purple"/>
+      <SvgProxy selector="#top" fill="blue" stroke="purple"/>
     </SvgLoader>
-    <span> Please Load Something! </span>
     {/* <img src="assets/images/blank-box.svg" alt=""/> */}
   </div>
 );

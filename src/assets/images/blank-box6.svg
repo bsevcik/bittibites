@@ -3,7 +3,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1078 864" style="enable-background:new 0 0 1078 864;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
+	<!-- .st0{display:none;}
 	.st1{display:inline;}
 	.st2{fill:none;stroke:#3953A4;stroke-width:0.96;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	
@@ -11,9 +11,8 @@
 	.st4{fill:#00AEEF;}
 	.st5{font-family:'ArialMT';}
 	.st6{font-size:9px;}
-	.st7{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;} -->
 </style>
-<g id="Layer_1" class="st0">
 	<g id="Bleed" class="st1">
 		<line class="st2" x1="116" y1="627.7" x2="116" y2="625.4"/>
 		<line class="st2" x1="116" y1="195.7" x2="116" y2="198"/>
