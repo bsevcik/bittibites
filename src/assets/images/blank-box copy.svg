@@ -10,12 +10,6 @@
 	.st3{font-family:'ArialMT';}
 	.st4{font-size:9px;}
 </style>
-<g id="Non-Print_Area">
-</g>
-<g id="Die_Lines">
-</g>
-<g id="Legend">
-</g>
 <g id="Bleed">
 	<line class="st0" x1="116" y1="627.7" x2="116" y2="625.4"/>
 	<line class="st0" x1="116" y1="195.7" x2="116" y2="198"/>
@@ -125,7 +119,5 @@
 		<text transform="matrix(0 1 -1 0 898.584 390.8476)" class="st2 st3 st4">6&quot; x 2&quot;</text>
 		<text transform="matrix(0 -1 1 0 694.521 437.2045)" class="st2 st3 st4">Bottom of Box</text>
 	</g>
-</g>
-<g id="Your_Art_Layer">
 </g>
 </svg>
