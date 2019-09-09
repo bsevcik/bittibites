@@ -3,7 +3,7 @@ import './styles.css';
 function stylesheet() {
     return (
         <div>
-            <h1>stylesheets</h1>
+            {/* <h1>stylesheets</h1> */}
         </div>
     )
 }
